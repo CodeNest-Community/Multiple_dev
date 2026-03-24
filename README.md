@@ -30,4 +30,4 @@ Welcome to the **Multiple-dev** shared repository! This is a collaborative space
 
 1. **Clone the repo / Reponi klon qiling:**
    ```bash
-       git clone https://codenest.com/community/Multiple-dev.git
+       git clone https://github.com/CodeNest-Community/Multiple_dev.git
